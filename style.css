@@ -1,0 +1,97 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.bir {
+  background-color: #effafa;
+}
+.ikki {
+  background-image: url("./images/Combined\ Shape.svg");
+  height: 156px;
+}
+
+.tort {
+  margin: 24px auto;
+  padding: 40px;
+  box-sizing: border-box;
+  width: 1110px;
+  height: 152px;
+  box-shadow: 0px 15px 20px -5px rgba(13, 113, 130, 0.15);
+  background-color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  box-shadow: 5px;
+}
+
+.tort_bir {
+  display: flex;
+  align-items: center;
+  row-gap: 20px;
+}
+
+.img2 {
+  margin-right: 30px;
+}
+
+.tort_uch {
+  color: #5ca5a5;
+  font-family: League Spartan;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.tort_tort {
+  background: #5ca5a5;
+  color: #fff;
+
+  text-align: center;
+  font-family: League Spartan;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+    padding: 3px 5px;
+    border-radius: 10px;
+    margin-left: 10px;
+}
+
+.tort_besh{
+    color: #2B3939;
+
+font-family: League Spartan;
+font-size: 22px;
+font-style: normal;
+font-weight: 700;
+line-height: 24px;
+margin-top: 10px;
+margin-bottom: 10px;
+}
+
+.tort_olti{
+    color: #7C8F8F;
+
+font-family: League Spartan;
+font-size: 18px;
+font-style: normal;
+font-weight: 500;
+line-height: 24px; /* 133.333% */
+letter-spacing: -0.138px;
+}
+
+.tort_yetti{
+    color: #5CA5A5;
+
+font-family: League Spartan;
+font-size: 16px;
+font-style: normal;
+font-weight: 700;
+line-height: 24px; /* 150% */
+letter-spacing: -0.123px;
+border-radius: 4px;
+background-color: #effafa;
+padding: 5px 10px;
+border-radius: 5px;
+}
